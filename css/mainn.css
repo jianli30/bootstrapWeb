@@ -1,0 +1,17 @@
+/* bootstrap Ã¦â€°Â©Ã¥Â±â€¢ */
+.container {
+  width: 1000px;
+  background: #ff0;
+}
+.container .row {
+  height: 200px;
+}
+.container .row div {
+  border: 1px solid #e92322;
+}
+.container .row div > a {
+  color: red;
+}
+.container .row div > a:hover {
+  color: green;
+}
